@@ -1,0 +1,150 @@
+{
+    "listTemplate1Metadata": {
+        "type": "object",
+        "objectId": "lt1Metadata",
+        "backgroundImage": {
+            "contentDescription": null,
+            "smallSourceUrl": null,
+            "largeSourceUrl": null,
+            "sources": [
+                {
+                    "url": "https://www.pentoz.com/wp-content/uploads/2019/01/Biggest-Gaming-Trends-2019.jpg",
+                    "size": "small",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                },
+                {
+                    "url": "https://www.pentoz.com/wp-content/uploads/2019/01/Biggest-Gaming-Trends-2019.jpg",
+                    "size": "large",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                }
+            ]
+        },
+        "title": "Quests",
+        "logoUrl": "https://vignette.wikia.nocookie.net/logopedia/images/3/38/Nvidia_logo.png/revision/latest?cb=20120829072950"
+    },
+    "listTemplate1ListData": {
+        "type": "list",
+        "listId": "lt1Sample",
+        "totalNumberOfItems": 10,
+        "listPage": {
+            "listItems": [
+                {
+                    "listItemIdentifier": "Dragon quest",
+                    "ordinalNumber": 1,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Dragon Quest"
+                        },
+                        "secondaryText": {
+                            "type": "PlainText",
+                            "text": "Slay the dragon"
+                        },
+                        "tertiaryText": {
+                            "type": "PlainText",
+                            "text": "100 XP"
+                        }
+                    },
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://media.wired.com/photos/5ada3a2c1e66870735eada27/master/w_1164,c_limit/DragonPasswordFINAL.jpg",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://media.wired.com/photos/5ada3a2c1e66870735eada27/master/w_1164,c_limit/DragonPasswordFINAL.jpg",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "dragon"
+                },
+                {
+                    "listItemIdentifier": "Mountain",
+                    "ordinalNumber": 2,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Mountain Quest"
+                        },
+                        "secondaryText": {
+                            "type": "RichText",
+                            "text": "Race to the top of the mountain"
+                        },
+                        "tertiaryText": {
+                            "type": "PlainText",
+                            "text": "113 EXP"
+                        }
+                    },
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://www.telegraph.co.uk/content/dam/Travel/ski/K2-mountain-Andrzej-Bargiel-first-ski-descent-by-Piotr-Pawlus-Red-Bull-Content-Pool.jpg?imwidth=450",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://www.telegraph.co.uk/content/dam/Travel/ski/K2-mountain-Andrzej-Bargiel-first-ski-descent-by-Piotr-Pawlus-Red-Bull-Content-Pool.jpg?imwidth=450",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "mountain"
+                },
+                {
+                    "listItemIdentifier": "pyramid",
+                    "ordinalNumber": 3,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Pyramid Quest"
+                        },
+                        "secondaryText": {
+                            "type": "RichText",
+                            "text": "Explore the pyramids"
+                        },
+                        "tertiaryText": {
+                            "type": "PlainText",
+                            "text": "476 exp"
+                        }
+                    },
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://ichef.bbci.co.uk/news/912/cpsprodpb/14E7E/production/_98603658_gettyimages-471805009.jpg",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://ichef.bbci.co.uk/news/912/cpsprodpb/14E7E/production/_98603658_gettyimages-471805009.jpg",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "blue"
+                }
+            ]
+        }
+    }
+}

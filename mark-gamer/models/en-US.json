@@ -1,5 +1,5 @@
 {
-	"invocation": "my a. p. l. test",
+	"invocation": "video-game",
 	"intents": [
 		{
 			"name": "ShowTemplateIntent",
