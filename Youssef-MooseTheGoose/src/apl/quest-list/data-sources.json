@@ -1,0 +1,150 @@
+{
+    "listTemplate1Metadata": {
+        "type": "object",
+        "objectId": "lt1Metadata",
+        "backgroundImage": {
+            "contentDescription": null,
+            "smallSourceUrl": null,
+            "largeSourceUrl": null,
+            "sources": [
+                {
+                    "url": "https://s3.amazonaws.com/artallnight/static/files/2018/08/14154730/back-1024x532.jpg",
+                    "size": "small",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                },
+                {
+                    "url": "https://s3.amazonaws.com/artallnight/static/files/2018/08/14154730/back-1024x532.jpg",
+                    "size": "large",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                }
+            ]
+        },
+        "title": "Choose your Quests",
+        "logoUrl": "https://scontent.fosu1-1.fna.fbcdn.net/v/t1.0-9/42210197_1913666058938720_4578944026736066560_o.jpg?_nc_cat=102&_nc_ht=scontent.fosu1-1.fna&oh=e9d984cb3b09795eba9062cfc9033c65&oe=5D2259AC"
+    },
+    "listTemplate1ListData": {
+        "type": "list",
+        "listId": "lt1Sample",
+        "totalNumberOfItems": 10,
+        "listPage": {
+            "listItems": [
+                {
+                    "listItemIdentifier": "Dragon Quests",
+                    "ordinalNumber": 1,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Dragon Quest"
+                        },
+                        "secondaryText": {
+                            "type": "PlainText",
+                            "text": "Slay the Dragon"
+                        },
+                        "tertiaryText": {
+                            "type": "PlainText",
+                            "text": "100 exp"
+                        }
+                    },
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://www.realmofhistory.com/wp-content/uploads/2018/03/10-mythical-dragon-entities-facts_11.jpg",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://www.realmofhistory.com/wp-content/uploads/2018/03/10-mythical-dragon-entities-facts_11.jpg",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "dragon"
+                },
+                {
+                    "listItemIdentifier": "Mountain",
+                    "ordinalNumber": 2,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Mountain Quest"
+                        },
+                        "secondaryText": {
+                            "type": "RichText",
+                            "text": "Race to the top of the mountain"
+                        },
+                        "tertiaryText": {
+                            "type": "PlainText",
+                            "text": "75 exp"
+                        }
+                    },
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://www.infoplease.com/sites/infoplease.com/files/inline-images/mount_everest_650.jpg",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://www.infoplease.com/sites/infoplease.com/files/inline-images/mount_everest_650.jpg",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "mountain"
+                },
+                {
+                    "listItemIdentifier": "Pyramids",
+                    "ordinalNumber": 3,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Pyramid Quest"
+                        },
+                        "secondaryText": {
+                            "type": "RichText",
+                            "text": "Explore the Pyramids"
+                        },
+                        "tertiaryText": {
+                            "type": "PlainText",
+                            "text": "50 exp"
+                        }
+                    },
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://www.history.com/.image/t_share/MTU3ODc5MDg2NDMxODcyNzM1/egyptian-pyramids-hero.jpg",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://www.history.com/.image/t_share/MTU3ODc5MDg2NDMxODcyNzM1/egyptian-pyramids-hero.jpg",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "pyramid"
+                }
+            ]
+        }
+    }
+}
